@@ -1,0 +1,19 @@
+#floatbtn{
+    height: 64px;
+    width: 64px;
+    background: rgb(255, 247, 220);
+    border-radius: 50%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+#btnContainer{
+    position: fixed;
+    bottom: 37px;
+    right: 40px;
+    display: flex;
+    align-items: center;
+}
